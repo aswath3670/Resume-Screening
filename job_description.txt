@@ -1,0 +1,16 @@
+We are hiring a Data Analyst / Data Scientist with strong experience in Python, 
+Pandas, NumPy, and Scikit-Learn for data analysis and machine learning tasks.
+
+The candidate should have hands-on experience in:
+- Data cleaning, preprocessing, and exploratory data analysis (EDA)
+- Machine Learning algorithms such as Logistic Regression, SVM, Random Forest
+- Natural Language Processing (NLP), TF-IDF, and Cosine Similarity
+- Data visualization using Matplotlib, Seaborn, Power BI, and Tableau
+- SQL databases such as MySQL for data extraction and analysis
+
+Experience with Django-based web applications, Git/GitHub, and Jupyter Notebook 
+is preferred. Familiarity with Deep Learning, TensorFlow, Computer Vision, 
+and cloud platforms like AWS or Azure is a plus.
+
+The role involves translating business requirements into data-driven insights,
+building predictive models, and creating dashboards to support decision-making.
