@@ -20,3 +20,15 @@ The system uses **TF-IDF Vectorization** and **Cosine Similarity** to calculate 
 ---
 
 ##  Project Structure
+Resume_Screening_NLP/
+│
+├── resumes/                    # Folder containing PDF resumes
+│   ├── ASWATH_V_Data_Analyst.pdf
+│   ├── ASWATH_V_AI_ML.pdf
+│
+├── job_description.txt         # Job description text file
+├── Resume_Screening.ipynb      # Main Jupyter Notebook with preprocessing, TF-IDF, and scoring
+├── requirements.txt            # Python dependencies for the project
+├── README.md                   # Project documentation and instructions
+└── .gitignore                  # Files and folders to ignore in Git
+
